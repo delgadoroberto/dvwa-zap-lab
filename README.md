@@ -14,6 +14,24 @@ This project is intended for educational purposes and provides a practical examp
 
 ---
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Architecture](#architecture)
+- [Technologies](#technologies)
+- [Repository Structure](#repository-structure)
+- [Documentation](#documentation)
+- [Prerequisites](#prerequisites)
+- [Quick Start](#quick-start)
+- [GitHub Actions Workflow](#github-actions-workflow)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [References](#references)
+
+---
+
 ## Features
 
 - Automated OWASP ZAP Baseline Scan
