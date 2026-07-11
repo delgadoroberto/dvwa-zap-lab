@@ -43,6 +43,19 @@ This project is intended for educational purposes and provides a practical examp
 
 ---
 
+## Learning Objectives
+
+This laboratory demonstrates how to:
+
+- Deploy a vulnerable web application using Docker.
+- Automate Dynamic Application Security Testing (DAST).
+- Integrate OWASP ZAP into GitHub Actions.
+- Generate security reports automatically.
+- Apply DevSecOps practices within CI/CD pipelines.
+- Understand the fundamentals of OWASP ZAP Baseline Scan.
+
+---
+
 ## Architecture
 
 ```mermaid
