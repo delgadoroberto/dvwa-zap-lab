@@ -2,7 +2,22 @@ services:
   dvwa:
     image: vulnerables/web-dvwa
     container_name: dvwa
+
     restart: unless-stopped
 
     ports:
       - "8080:80"
+
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost/"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+    networks:
+      - dvwa-network
+
+networks:
+  dvwa-network:
+    driver: bridge
