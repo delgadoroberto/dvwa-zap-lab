@@ -1,13 +1,19 @@
 services:
   dvwa:
+    # Official DVWA Docker image
     image: vulnerables/web-dvwa
+
+    # Friendly container name
     container_name: dvwa
 
+    # Restart automatically unless explicitly stopped
     restart: unless-stopped
 
+    # Expose DVWA on localhost:8080
     ports:
       - "8080:80"
 
+    # Verify that the web application is responding
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost/"]
       interval: 15s
