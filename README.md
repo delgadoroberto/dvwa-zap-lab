@@ -104,6 +104,18 @@ dvwa-zap-lab/
 
 ---
 
+## Documentation
+
+Additional documentation is available in the `docs/` directory.
+
+| Document | Description |
+|----------|-------------|
+| `architecture.md` | High-level architecture of the laboratory |
+| `workflow.md` | Detailed explanation of the GitHub Actions workflow |
+| `zap-baseline.md` | Guide to OWASP ZAP Baseline Scan and DAST concepts |
+
+---
+
 ## Prerequisites
 
 Before running this project locally, ensure you have the following installed:
