@@ -238,6 +238,20 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
+## Acknowledgements
+
+This laboratory is built using several outstanding open-source projects maintained by the security community.
+
+Special thanks to:
+
+- OWASP
+- ZAP Development Team
+- DVWA Project
+- Docker
+- GitHub
+
+---
+
 ## References
 
 - OWASP ZAP
