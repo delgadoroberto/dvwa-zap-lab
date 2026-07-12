@@ -208,6 +208,22 @@ Planned improvements include:
 
 ---
 
+## Future Enhancements
+
+Planned improvements include:
+
+- Authenticated scanning
+- OWASP ZAP Full Scan
+- API security testing
+- Multi-container deployment
+- Security Quality Gates
+- SARIF report generation
+- GitHub Security integration
+- Security Dashboard
+- Additional vulnerable applications
+
+---
+
 ## Contributing
 
 Contributions are welcome.
