@@ -56,6 +56,19 @@ This laboratory demonstrates how to:
 
 ---
 
+## Security Concepts Covered
+
+- Dynamic Application Security Testing (DAST)
+- Continuous Integration (CI)
+- DevSecOps
+- Container Security
+- Security Automation
+- Passive Security Testing
+- Vulnerability Assessment
+- Secure Software Development
+
+---
+
 ## Architecture
 
 ```mermaid
