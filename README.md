@@ -18,6 +18,8 @@ This project is intended for educational purposes and provides a practical examp
 
 - [Overview](#overview)
 - [Features](#features)
+- [Learning Objectives](#learning-objectives)
+- [Security Concepts Covered](#security-concepts-covered)
 - [Architecture](#architecture)
 - [Technologies](#technologies)
 - [Repository Structure](#repository-structure)
@@ -28,7 +30,8 @@ This project is intended for educational purposes and provides a practical examp
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
-- [Autor](#Autor)
+- [Author](#author)
+- [Acknowledgements](#acknowledgements)
 - [References](#references)
 
 ---
@@ -206,22 +209,6 @@ Planned improvements include:
 - Security Dashboard
 - Multi-container environment
 - Slack or Microsoft Teams notifications
-
----
-
-## Future Enhancements
-
-Planned improvements include:
-
-- Authenticated scanning
-- OWASP ZAP Full Scan
-- API security testing
-- Multi-container deployment
-- Security Quality Gates
-- SARIF report generation
-- GitHub Security integration
-- Security Dashboard
-- Additional vulnerable applications
 
 ---
 
