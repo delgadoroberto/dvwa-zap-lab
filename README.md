@@ -28,6 +28,7 @@ This project is intended for educational purposes and provides a practical examp
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
+- [Autor](#Autor)
 - [References](#references)
 
 ---
