@@ -157,7 +157,7 @@ Before running this project locally, ensure you have the following installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/dvwa-zap-lab.git
+git clone https://github.com/delgadoroberto/dvwa-zap-lab.git
 ```
 
 Navigate to the project directory:
@@ -235,6 +235,14 @@ Please read the `CONTRIBUTING.md` document before submitting issues or pull requ
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
+
+---
+
+## Author
+
+**Roberto Delgado**
+
+Cybersecurity Engineer
 
 ---
 
