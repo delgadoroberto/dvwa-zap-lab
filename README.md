@@ -220,26 +220,6 @@ Please read the `CONTRIBUTING.md` document before submitting issues or pull requ
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
----
-
-## Author
-
-**Roberto Delgado**
-
-*Cybersecurity Engineer*
-
-Cybersecurity professional focused on cloud and infrastructure security, DevSecOps, vulnerability management, and security automation.
-
-This repository is part of my personal cybersecurity portfolio, where I build hands-on projects that demonstrate secure engineering practices across cloud security, Infrastructure as Code, container security, CI/CD security, and security automation.
-
-> **Practical cybersecurity. Secure automation. Continuous learning.**
-
----
-
 ## Acknowledgements
 
 This laboratory is built using several outstanding open-source projects maintained by the security community.
@@ -261,3 +241,23 @@ Special thanks to:
 - Docker
 - GitHub Actions
 - OWASP Top 10
+
+---
+
+## Author
+
+**Roberto Delgado**
+
+*Cybersecurity Engineer*
+
+Cybersecurity professional focused on cloud and infrastructure security, DevSecOps, vulnerability management, and security automation.
+
+This repository is part of my technical portfolio, featuring hands-on projects that demonstrate secure engineering practices across cloud environments, Infrastructure as Code, container security, CI/CD, and security automation.
+
+> **Practical cybersecurity. Secure automation. Continuous learning.**
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
